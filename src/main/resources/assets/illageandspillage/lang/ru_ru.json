@@ -61,11 +61,11 @@
   "item.illageandspillage.spellbound_book": "Духовная книга",
   "item.illageandspillage.bag_of_horrors": "Мешок ужасов",
   "item.illageandspillage.magi_disc": "Пластинка",
-  "item.illageandspillage.magi_disc.desc": "Yellowbross Productions - WHEEEEEZE",
+  "item.illageandspillage.magi_disc.desc": "Yellowbross Productions — WHEEEEEZE",
   "item.illageandspillage.spiri_disc": "Пластинка",
-  "item.illageandspillage.spiri_disc.desc": "Yellowbross Productions - Spellbound Execution",
+  "item.illageandspillage.spiri_disc.desc": "Yellowbross Productions — Spellbound Execution",
   "item.illageandspillage.freaky_disc": "Пластинка",
-  "item.illageandspillage.freaky_disc.desc": "Yellowbross Productions - Arachnophobia",
+  "item.illageandspillage.freaky_disc.desc": "Yellowbross Productions — Arachnophobia",
 
   "tooltip.illageandspillage.shift": "Удерживайте §eShift§7, чтобы узнать больше",
 
@@ -233,7 +233,7 @@
   "subtitles.entity.freakager.trickortreat": "Страхиянин создаёт сладость-или-гадость",
   "subtitles.entity.freakager.trickortreat_bounce": "Сладость-или-гадость прыгает",
   "subtitles.entity.freakager.eyesore_ambient": "Сглазница ползёт",
-  "subtitles.entity.freakager.eyesore_hurt": "Сглазница ранен",
+  "subtitles.entity.freakager.eyesore_hurt": "Сглазница ранена",
   "subtitles.entity.freakager.eyesore_death": "Сглазница погибает",
   "subtitles.entity.freakager.eyesore_land": "Сглазница приземляется",
   "subtitles.entity.freakager.funnybone_ambient": "Костосмех хихикает",
