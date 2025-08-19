@@ -84,7 +84,8 @@
   "subtitles.entity.igniter.ambient": "Поджигатель злится",
 
   "subtitles.entity.igniter.celebrate": "Зажигатель торжествует",
-  "subtitles.entity.igniter.hurt": "Зажигатель ранен",
+  "subtitles.entity.igniter.hurt": "Поджигатель ранен",
+
   "subtitles.entity.igniter.death": "Зажигатель погибает",
 
   "subtitles.entity.engineer.ambient": "Инженер хмыкает",
