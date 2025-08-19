@@ -1,5 +1,5 @@
 {
-  "item.illageandspillage.igniter_spawn_egg": "Яйцо призыва зажигателя",
+  "item.illageandspillage.igniter_spawn_egg": "Яйцо призыва поджигателя",
   "item.illageandspillage.engineer_spawn_egg": "Яйцо призыва инженера",
   "item.illageandspillage.magispeller_spawn_egg": "Яйцо призыва чаромага",
   "item.illageandspillage.illashooter_spawn_egg": "Яйцо призыва злострелянина",
@@ -14,13 +14,12 @@
   "item.illageandspillage.funnybone_spawn_egg": "Яйцо призыва костосмеха",
   "item.illageandspillage.eyesore_spawn_egg": "Яйцо призыва сглазницы",
 
-  "item.minecraft.potion.effect.mutation": "Зелье тьмы",
-  "item.minecraft.splash_potion.effect.mutation": "Взрывное зелье тьмы",
-  "item.minecraft.lingering_potion.effect.mutation": "Туманное зелье тьмы",
-  "item.minecraft.tipped_arrow.effect.mutation": "Стрела тьмы",
+  "item.minecraft.potion.effect.mutation": "Тёмное зелье",
+  "item.minecraft.splash_potion.effect.mutation": "Тёмное взрывное зелье",
+  "item.minecraft.lingering_potion.effect.mutation": "Тёмное туманное зелье",
+  "item.minecraft.tipped_arrow.effect.mutation": "Тёмная стрела",
 
   "entity.illageandspillage.igniter": "Поджигатель",
-
   "entity.illageandspillage.engineer": "Инженер",
   "entity.illageandspillage.chagrin_sentry": "Злой часовой",
   "entity.illageandspillage.hinder": "Починщик",
@@ -73,7 +72,6 @@
   "tooltip.illageandspillage.spellbound_book_1": "§7Может быть использована каждые ",
   "tooltip.illageandspillage.spellbound_book_1_minutes": " минут.",
   "tooltip.illageandspillage.spellbound_book_2": "§7Будьте осторожны, время перезарядки не сбрасывается после смерти.",
-
   "tooltip.illageandspillage.spellbound_book_3": "§cПерезаряжается, только находясь в инвентаре!",
   "tooltip.illageandspillage.spellbound_book_4": "§7Нажмите ПКМ по земле пустой рукой или ударьте моба, чтобы атаковать.",
 
@@ -82,13 +80,9 @@
   "effect.illageandspillage.webbed": "Опутывание",
 
   "subtitles.entity.igniter.ambient": "Поджигатель злится",
-
   "subtitles.entity.igniter.celebrate": "Поджигатель торжествует",
-
   "subtitles.entity.igniter.hurt": "Поджигатель ранен",
-
   "subtitles.entity.igniter.death": "Поджигатель погибает",
-
 
   "subtitles.entity.engineer.ambient": "Инженер хмыкает",
   "subtitles.entity.engineer.hurt": "Инженер ранен",
@@ -104,7 +98,7 @@
   "subtitles.entity.magispeller.hurt": "Чаромаг ранен",
   "subtitles.entity.magispeller.death": "Чаромаг погибает",
   "subtitles.entity.magispeller.laugh": "Чаромаг маниакально смеётся",
-  "subtitles.entity.magispeller.prepare_fakers": "Чаромаг создаёт обманщиков",
+  "subtitles.entity.magispeller.prepare_fakers": "Чаромаг готовится к клонированию",
   "subtitles.entity.magispeller.spin": "Чаромаг вращается",
   "subtitles.entity.magispeller.arrowbarrage": "Чаромаг быстро стреляет",
   "subtitles.entity.magispeller.heal": "Чаромаг исцеляется",
@@ -239,7 +233,7 @@
   "subtitles.entity.freakager.trickortreat": "Страхиянин создаёт сладость-или-гадость",
   "subtitles.entity.freakager.trickortreat_bounce": "Сладость-или-гадость прыгает",
   "subtitles.entity.freakager.eyesore_ambient": "Сглазница ползёт",
-  "subtitles.entity.freakager.eyesore_hurt": "Сглазница ранена",
+  "subtitles.entity.freakager.eyesore_hurt": "Сглазница ранен",
   "subtitles.entity.freakager.eyesore_death": "Сглазница погибает",
   "subtitles.entity.freakager.eyesore_land": "Сглазница приземляется",
   "subtitles.entity.freakager.funnybone_ambient": "Костосмех хихикает",
