@@ -19,7 +19,8 @@
   "item.minecraft.lingering_potion.effect.mutation": "Туманное зелье тьмы",
   "item.minecraft.tipped_arrow.effect.mutation": "Стрела тьмы",
 
-  "entity.illageandspillage.igniter": "Зажигатель",
+  "entity.illageandspillage.igniter": "Поджигатель",
+
   "entity.illageandspillage.engineer": "Инженер",
   "entity.illageandspillage.chagrin_sentry": "Злой часовой",
   "entity.illageandspillage.hinder": "Починщик",
