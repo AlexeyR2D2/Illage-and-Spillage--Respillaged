@@ -71,7 +71,8 @@
 
   "tooltip.illageandspillage.spellbound_book_1": "§7Может быть использована каждые ",
   "tooltip.illageandspillage.spellbound_book_1_minutes": " минут.",
-  "tooltip.illageandspillage.spellbound_book_2": "§7Будьте осторожны, откат не сбрасывается после смерти.",
+  "tooltip.illageandspillage.spellbound_book_2": "§7Будьте осторожны, время перезарядки не сбрасывается после смерти.",
+
   "tooltip.illageandspillage.spellbound_book_3": "§cПерезаряжается, только находясь в инвентаре!",
   "tooltip.illageandspillage.spellbound_book_4": "§7Нажмите ПКМ по земле пустой рукой или ударьте моба, чтобы атаковать.",
 
