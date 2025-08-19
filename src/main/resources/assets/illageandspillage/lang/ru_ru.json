@@ -81,7 +81,8 @@
   "effect.illageandspillage.mutation": "Мутация",
   "effect.illageandspillage.webbed": "Опутывание",
 
-  "subtitles.entity.igniter.ambient": "Зажигатель злится",
+  "subtitles.entity.igniter.ambient": "Поджигатель злится",
+
   "subtitles.entity.igniter.celebrate": "Зажигатель торжествует",
   "subtitles.entity.igniter.hurt": "Зажигатель ранен",
   "subtitles.entity.igniter.death": "Зажигатель погибает",
